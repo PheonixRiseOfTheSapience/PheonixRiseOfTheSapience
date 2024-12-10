@@ -120,8 +120,8 @@ This tutorial will guide you through creating an alternative license based on th
 ### Step 1: Understand the Original License
 
 Before creating an alternative license, make sure you thoroughly understand the terms and conditions of the original PheonixRiseOfTheSapience X11 License.
-Manually Draft your alternative license or generate dynamically from a static website use link below for dynamically generating a alternative license.
-https://pheonixriseofthesapience.github.io/AegisSapience-X11-License/
+- Manually Draft your alternative license or use link below for dynamically generating a alternative license.
+- https://pheonixriseofthesapience.github.io/AegisSapience-X11-License/
 
 ### Step 2: Draft the Alternative License
 
